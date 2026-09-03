@@ -30,9 +30,20 @@ promise. Priorities can change as Knit learns from real usage.
 
 ## Public and private boundaries
 
-Public issues may describe user-visible behavior, desired outcomes, and broad
-status. Please do not post workspace content, private workspace URLs, email
-addresses, credentials, tokens, logs, or other personal information.
+This roadmap is an intentionally incomplete public projection, not Knit's full
+source of truth. Public issues describe user problems, promised outcomes, and
+broad sequencing or status. Private product and engineering records hold the
+detailed implementation plans, architecture, security controls, release
+evidence, internal metrics, and commercial experiments.
+
+Pricing and usage-limit work will be described here in terms of a fair,
+understandable customer contract. The public roadmap will not be used to design
+pressure tactics, artificial urgency, lock-in, or dark patterns. Knit will give
+advance notice of material pricing or limit changes, preserve access to export,
+and explain any action a workspace needs to take.
+
+Please do not post workspace content, private workspace URLs, email addresses,
+credentials, tokens, logs, or other personal information.
 
 Security vulnerabilities should be reported privately through
 [GitHub's private vulnerability reporting](https://github.com/threadlabs-studio/knit-roadmap/security/advisories/new),
