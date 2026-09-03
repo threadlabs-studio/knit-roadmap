@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or share an early idea
+    url: https://github.com/threadlabs-studio/knit-roadmap/discussions
+    about: Use Discussions when the request is not yet a concrete work item.
+  - name: Report a security vulnerability privately
+    url: https://github.com/threadlabs-studio/knit-roadmap/security/advisories/new
+    about: Never publish vulnerabilities, credentials, private URLs, or customer data in an issue.

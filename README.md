@@ -1,0 +1,41 @@
+# Knit Roadmap & Feedback
+
+This is the public home for Knit feature requests, bug reports, product feedback,
+and roadmap updates.
+
+Knit is a lightweight knowledge workspace for writing, organizing, and finding
+team knowledge. Visit [knit.wiki](https://knit.wiki) to learn more.
+
+## What belongs here
+
+- [Report a bug](https://github.com/threadlabs-studio/knit-roadmap/issues/new?template=bug-report.yml)
+- [Request a feature](https://github.com/threadlabs-studio/knit-roadmap/issues/new?template=feature-request.yml)
+- [Ask a question or share an idea](https://github.com/threadlabs-studio/knit-roadmap/discussions)
+- [See what is planned](https://github.com/threadlabs-studio/knit-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Astatus%3Aplanned)
+
+The source code does **not** live in this repository. Keeping the public tracker
+separate lets the product roadmap and community conversation be open while
+private implementation, release operations, and security work remain protected.
+
+## Reading the roadmap
+
+Roadmap priority is expressed with labels:
+
+- [`priority:now`](https://github.com/threadlabs-studio/knit-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Apriority%3Anow) — actively being qualified or built
+- [`priority:next`](https://github.com/threadlabs-studio/knit-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Apriority%3Anext) — expected after the current work
+- [`priority:later`](https://github.com/threadlabs-studio/knit-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Apriority%3Alater) — worthwhile, but not scheduled
+
+An issue marked `status:planned` is accepted direction, not a delivery-date
+promise. Priorities can change as Knit learns from real usage.
+
+## Public and private boundaries
+
+Public issues may describe user-visible behavior, desired outcomes, and broad
+status. Please do not post workspace content, private workspace URLs, email
+addresses, credentials, tokens, logs, or other personal information.
+
+Security vulnerabilities should be reported privately through
+[GitHub's private vulnerability reporting](https://github.com/threadlabs-studio/knit-roadmap/security/advisories/new),
+not through an issue or discussion.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full reporting and triage process.
