@@ -3,8 +3,20 @@
 This is the public home for Knit feature requests, bug reports, product feedback,
 and roadmap updates.
 
-Knit is a lightweight knowledge workspace for writing, organizing, and finding
-team knowledge. Visit [knit.wiki](https://knit.wiki) to learn more.
+Knit is a knowledge base for teams who write things down together. Many hands,
+one tidy wiki: nothing goes live until someone publishes, and every version is
+kept. Visit [knit.wiki](https://knit.wiki) to learn more.
+
+## What we're focused on
+
+Making review keep up with writing, so a team can write a lot, together,
+without losing track of what's true:
+
+- [#44](https://github.com/threadlabs-studio/knit-roadmap/issues/44) Show how settled a page is: Early, On track, Stable
+- [#43](https://github.com/threadlabs-studio/knit-roadmap/issues/43) Review big changes without losing track
+- [#45](https://github.com/threadlabs-studio/knit-roadmap/issues/45) See what changed since you last looked
+- [#3](https://github.com/threadlabs-studio/knit-roadmap/issues/3) Comments, including comments that ask for a change
+- [#47](https://github.com/threadlabs-studio/knit-roadmap/issues/47) Write down your team's house guide
 
 ## What belongs here
 
