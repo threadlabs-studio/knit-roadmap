@@ -9,13 +9,14 @@ kept. Visit [knit.wiki](https://knit.wiki) to learn more.
 
 ## What we're focused on
 
-Making review keep up with writing, so a team can write a lot, together,
-without losing track of what's true:
+Helping you answer three questions fast: what changed, can I trust this, and
+what needs me?
 
+- [#45](https://github.com/threadlabs-studio/knit-roadmap/issues/45) See what changed since you were last here
 - [#44](https://github.com/threadlabs-studio/knit-roadmap/issues/44) Show how settled a page is: Early, On track, Stable
 - [#43](https://github.com/threadlabs-studio/knit-roadmap/issues/43) Review big changes without losing track
-- [#45](https://github.com/threadlabs-studio/knit-roadmap/issues/45) See what changed since you last looked
 - [#3](https://github.com/threadlabs-studio/knit-roadmap/issues/3) Comments, including comments that ask for a change
+- [#48](https://github.com/threadlabs-studio/knit-roadmap/issues/48) See only what needs you
 - [#47](https://github.com/threadlabs-studio/knit-roadmap/issues/47) Write down your team's house guide
 
 ## What belongs here
